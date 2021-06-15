@@ -1,0 +1,9 @@
+Kafa Topu 2, mobil cihazlar için tasarlanmıştır ve mobil cihazlarda en iyi şekilde performans gösterir.
+Oyunumuzu Emülatör ve benzeri 3. Parti Yazılımlar aracılığıyla oynamak kötü performansa, bağlantı sorunlarına ve diğer beklenmedik hatalara neden olabilir.
+Bu nedenle, Emülatör Yazılımı kullanan oyunculara cihaz desteği sunamıyoruz.
+Masomo olarak, şu an için Emülatör kullanımı ile ilgili bir yaptırım uygulamıyoruz. Ancak, oyunumuzun bir telefon veya tablet ile, tasarımına uygun şekilde oynanmasını öneriyoruz.
+Emülatör Kullanabilir miyim?
+Kafa Topu 2, mobil cihazlar için tasarlanmıştır ve mobil cihazlarda en iyi şekilde performans gösterir.
+Yorumlar
+0 yorum
+Makale yorumlara kapalı.

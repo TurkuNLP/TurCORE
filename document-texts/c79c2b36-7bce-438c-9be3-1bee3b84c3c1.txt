@@ -1,0 +1,7 @@
+@Entity Annnotation ve @Table Annotation her ikisinde de name parametresi bulunmaktadır. @Entity içerisinde yer alan name parameteresi sınıfla ilgili işlemlerin hibernate ile ilgili kısımlarında kullanılmaktadır. Table’da yer alan name parametresi ise veritabanın yer alan tablo için kullanılmaktadır.
+@Entity(name="Student") @Table(name="Students") public class User { @Id @GeneratedValue private Long id; public Long getId() { return id; } }
+Yukarıdaki örnek koda baktığımızda, Sınıfın ismi User olarak kullanılmış ve bu sınıftan yeni bir nesne üretileceği zaman new User() kullanılacaktır.
+User student = new User();
+@Entity name parametresi Student olarak tanımlanmış, hibernate içerisinde artık bu entity Student’dir ve öyle erişilecektir. Örnek olarak JPQL sorgusunda kullanmak istersek
+session.createQuery("FROM Student", User.class).getResultList();
+Table içerisinde yer alan name parametresi tablonun ismini belirtmektedir. Eğer veritabanında tabloları listelersek karşımıza Students tablosu çıkıcaktır.

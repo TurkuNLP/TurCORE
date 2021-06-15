@@ -1,0 +1,78 @@
+Kirala Senin Olsun Sunucu Paketleri
+Aylık kiralama maliyetlerini düşürmek veya kendi sunucunuza taksitle sahip olmak isteyenler için ideal bir çözüm olan Kirala Senin Olsun Sunucu modeli, Akweb Hostingi kalitesiyle sizlerle.
+Tamamı firmamıza ait olan, Supermicro, HP ve Dell marka sunucular ile, isteğinize uygun olarak çift işlemci ya da tek işlemcili, 16 GB - 32 GB ve 64 GB RAM alternatifli, SATA, SAS ya da SSD disk ile performans elde edebileceğiniz sunucu paketlerimiz aşağıda sunulmaktadır.
+12 aylık alım modelinde, 12. ay ödemesi yapıldığında sunucu artık sizin olur ve ister barındırma ödeyerek hizmet almaya devam eder, isterseniz sunucunuzu kargo ettirebilirsiniz...
+12 aylık alım modelinde, 12. ay ödemesi yapıldığında sunucu artık sizin olur ve ister barındırma ödeyerek hizmet almaya devam eder, isterseniz sunucunuzu kargo ettirebilirsiniz...
+Denizli Netinternet Lokasyonlu Kiralık / Dedicated Sunucu Paketleri
+- Satın almak istediğiniz sunucu kodunu BURAYA TIKLAYARAK iletmeniz yeterlidir. (Örnek : L26-U1 gibi...)
+- Sunucular ile birlikte 2 Adet IP verilmektedir
+Ortak Özellikler
+- 100Mbit/sn Hat - Limitsiz Trafik (10TB AKN)
+- 1 Gbps/sec Network İçi Erişim Kapasitesi
+- 1 Adet IP Adresi (Toplam 61 Adet Alınabilir)
+- Ücretsiz IPMI Remote-Reboot + KVM OverIP
+- Opsiyonel Yüksek Kapasiteli Yedekleme Çözümleri
+- Ücretsiz İşletim Sistemi Kurulumu
+- Satın Alınan Lisansların Kurulumu
+- 7 Gün 24 Saat Kesintisiz Teknik Destek
+- Kiralama Boyunca Anında Parça Değişim Garantisi
+- Opsiyonel SYN, DDos, Dos Koruma Hizmeti
+- Gelen/Giden Ataklar İçin Otomatik Bloklama
+- Opsiyonel 55 Farklı Class IP hizmeti
+Ücretsiz TTDdos Koruma hizmeti
+TTDdos servisi, iplerinizin hem yurt içi hemde yurt dışından gelebilecek olan ddos ataklarında koruma sağlar. Anti-DDos, hizmetiniz aktif olduğu süre boyunca Türk telekom anti-ddos noktalarında filtrelenerek sadece temiz trafiğin sunucularınıza ulaşmasını sağlayacaktır.
+TTDDos hizmetinin sağladığı genel özellikler aşağıdaki gibidir.
+TTDDos hizmetinin sağladığı genel özellikler aşağıdaki gibidir.
+- Layer 4 Stateless Firewall
+- DDoS Atak Filtreleme
+- UDP Atak Filtreleme
+- SYN Spoofing Atak Filtreleme
+- Saldırı Tespiti ve Loglama
+- 360 Gbps toplam kapasite
+Size yardımcı olmak için buradayız
+Paketlerimizle ilgili detaylı bilgiye mi ihtiyacınız var?
+Kirala Senin Olsun Sunucu Şartları
+Kiraladığımız sunucu ne zaman teslim edilir ?
+- Sitemiz, webmaster platformları ya da mail ile iletilen ilan ve teklifdeki sunucular ikinciel sunucudur.
+- Disklerin çoğunluğu sıfır ve garantilidir.
+- Barındırma hizmeti Netinternet DC de firmamıza ait kabinlerde verilebilecektir.
+- Fiyatlara sunucu barındırma ücreti dahildir. Ek IP ya da lisanslar fiyata dahil değildir.
+- Sözleşmesinize göre 12. ci taksit ödedindiğinde dedicated server olarak verilen hizmet adınıza co-location hizmeti olarak aktarılacaktır.
+- Kirala Senin Olsun sunucu hizmeti 12. ay dolmadan iptal edildiğinde, sunucu alma hakkınız kaybolacağı gibi, tarafınıza herhangi bir geri ödeme yapılmayacaktır.
+- Kiralama süresi boyunca donanımsal arızalarda parça değişimi ya da muadil bir sunucu tarafımızca karşılanacaktır.
+- Kiralama süresi boyunca tüm sunucu yönetimi müşteriye ait olup, firmamız sorumlu olmayacaktır.
+- Barındırma özellikleri Limitsiz Trafik 100Mbit hat (10TB AKN) olarak verilmektedir.
+- Kirala Senin Olsun sunucularda 2 adet IP verilmektedir.
+- Kirala Senin Olsun sunucu paketi alan müşterilerimiz, sitemizdeki diğer hizmet sözleşmesi ve sunucu barındırma sözleşmesi gibi sözleşmelere uymak zorundadır.
+Bizi Yakından Tanımak İstermisiniz ?
+Sizden aldığımız geri bildirimler ve sorular için bazı hazır yanıtlar hazırladık.
+Kredi kartı ile ödeme alıyormusunuz?
+Evet. Kredi kartı ile ödeme yapabilirsiniz.
+Güvenlik önlemleriniz nelerdir ?
+Sunucu güvenliği için güncel işletim sistemleri, yazılımlar ve güvenlik duvarları kullanmaktayız. Fakat sunucu güvenliği sadece kiralandığı firma tarafından değil büyük oranda kullanıcı tarafından sağlanmalıdır.
+Örneğin bilgisayarınızda bulunan trojan sayesinde sunucu root bilgileriniz çalınıp tüm sunucunuz, dosyalarınız çalınabilir, zarar görebilir ve geri alınamayacak şekilde kaybolabilir.
+Örneğin bilgisayarınızda bulunan trojan sayesinde sunucu root bilgileriniz çalınıp tüm sunucunuz, dosyalarınız çalınabilir, zarar görebilir ve geri alınamayacak şekilde kaybolabilir.
+Yedek alıyormusunuz ?
+Elbette. 2 farklı backup sunucusu ile 3 günlük olarak yedek almaktayız. Detaylar için https://www.akwebhostingi.com/tr/kurumsal/yedekleme-sozlesmesi.html
+Site Taşıma yapıyormusunuz ?
+Cpanel tarafından sorunsuz olarak olarak taşıma yapmaktayız. Sipariş sonrasında cpanel bilgilerini destek bileti olarak göndermeniz yeterli olacaktır.
+Sunucularınızda hangi diskler kullanıyorsunuz ?
+Tüm hosting ve reseller sunucularımızda SSD disk ve Raid 10 yapısı kullanmaktayız.
+VDS Sunucularda ise SATA, SAS ve SSD kullanmaktayız. RAİD 1 ve RAİD 10 mimarisi ile güvenlik ve performansı bir arada sunmaktayız
+VDS Sunucularda ise SATA, SAS ve SSD kullanmaktayız. RAİD 1 ve RAİD 10 mimarisi ile güvenlik ve performansı bir arada sunmaktayız
+Web sitem için alacağım hosting ne kadar güvenli olacak?
+Her nekadar firma olarak tüm güvenlik önlemlerini almış olsakta güvenlik için büyük yük size düşmekte. yazılımlarınızın güncel olması ve açıkları olmayan sistemler kullanmanız gerekmektedir. Aksi halde güvenlik zaafiyeti kaçınılmaz olacaktır.
+SSL Sertifika Satın Aldığımda Kurulumu Ücretsiz mi Yapıyorsunuz?
+Sadece firmamızdan alınan SSL Sertifikalarında ücretsiz kurulum yapmaktayız.
+Sunucu Destek Hizmeti Veriyor musunuz?
+Sunucu hizmetlerinde 1. seviye destek vermekteyiz. Sıfırdan sunucu kurulumu, İşletim sistemi güncelleme, Sunucunuzda bulunan servislerin optimizasyonu gibi sıralayabiliriz.
+Özel nameserver kullanabiliyormuyuz ?
+Elbette. Özel name server kullanabilirsiniz.
+Saldırı alıyorum ne yapabiliriz ?
+Yurtdışı saldırılara karşı 500 Gbps saldırı korumalı IP ile yardımcı olmaktayız. Voxilty Ip ler ile %85 başarılı şekilde koruma sağlamaktadır.
+Seohosting lerde hangi class IP kullanıyorsunuz ?
+Seohosting lere tamamı A ve C Class IP lerden oluşan yapı kullanmaktayız. Kesinlikle sıralı D Class Ip kullanmamaktayız.
+Seohosting IP atamasını biz mi yapıyoruz ?
+SEOhosting lerde IP lere atanan siteleri kontrol etmek ve IP lere eşit sayıda site atayabilmek için Ip atamalarını biz yapmaktayız. bunun için destek bildirimi göndermeniz yeterli olacaktır.
+Bayi Hosting mi VDS sunucu Mu Tercih Etmeliyim?
+Bu tamamen barındıracağınız web sitelerine bağlıdır. Eğer barındıracağınız siteler arasında yüksek trafikli site bulunuyorsa VDS sunucu tavsiye ederiz, çünkü VDS sunucunuzda bulunan donanımlar sadece sizin siteleriniz için çalışmaktadır. Bu yüzden bayi hesabınıza göre VDS sunucunuzda daha yüksek performansa sahip olursunuz.

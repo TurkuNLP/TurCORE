@@ -1,0 +1,61 @@
+Google Search Console Nedir? Nasıl Kullanılır?
+Google Search Console Nedir?
+Google Search Console, internet sitesi sahipleri, webmasterlar, dijital pazarlamacılar ve SEO’cuların sitelerini Google’a gösterdiği, performans ölçümlemesi yaptığı servise verilen isimdir. Kullanıcılar, Google Search Console‘u kullanarak Google arama motoru üzerindeki performanslarını ve web görünürlüğünü görebilir, buna bağlı olarak yapması gereken optimizasyonları sağlayabilirler. 2015 yılına kadar ismi Google Webmaster Tools olan aracın adı Google’ın servisini ve araçlarını yenileme kararı almasının ardından Google Search Console olarak değiştirilmişti.
+Google Search Console Ne İşe Yarar? Ne Yapılabilir?
+Search Console, site sahipleri ve yöneticiler için içerisinde pek çok farklı özellik bulundurmaktadır. En önemli özelliği web sitesi bulunan kişilerin sitelerini Google dizinine eklemelerini ve aynı zamanda dizindeki durumu kontrol edebilmelerine imkan tanımasıdır. Üstelik Google tarafından ücretsiz olarak sunulan bir web hizmeti olması da bu açıdan büyük avantaj sağlar.
+Aracın kullanıcılarına sunduğu hizmetlerin bazıları şunlardır;
+- Site haritası gönderip, kontrol edebilme,
+- Googlebot’un siteyi ziyaret ettiği esnadaki istatistikleri görebilme,
+- Backlinkleri listeleyebilme,
+- Robots.txt dosyasını görebilme,
+- Googlebot’un tararken zorlandığı sayfaları görebilme,
+- Sitenin hangi dizinin içerisinde listelendiğini ve tıklama oranlarını görebilme,
+- Site bağlantısının dizinde ne şekilde görünebileceğini seçebilme,
+- Bazı arama sonuçlarında olmasını istemediğiniz URL’leri kaldırabilme.
+Bunların yanı sıra eğer sitenize Google tarafından bir ceza verilmişse, bu cezayı da Google Search Console’dan görebilirsiniz.
+Google Search Console Nasıl Kullanılır?
+Arama Görünümü
+Arama görünümü, web sitenizin arama sonuçlarında nasıl göründüğünün aktarılmasıdır ve birden fazla faktörden etkilenmektedir.
+- Yapılandırılmış Veri: Google bu alanda yapılandırılan verileri toplar. Grafik, yapısal verilerin sayısını ve hatalarını site yöneticisine anlatır. Sorunları çözmek için bu alandaki önerilerden faydalanabilirsiniz.
+- Veri İşaretleyici: Back-end kısmına erişiminiz bulunmuyorsa “Veri İşaretleyiciyi” kullanarak yapılandırılmış verileri istediğiniz gibi kullanabilirsiniz.
+- HTML İyileştirmeleri: HTML iyileştirmeleri kısmı, meta açıklamaları, başlıkları ve dizine eklenemeyen içeriklerle ilgili olan bütün hataları toplar.
+- Site Bağlantıları: Site bağlantıları, kullanıcıların web sitesinde gezinebilmesi için kullanılır.
+Arama Trafiği
+Arama trafiğinde sitenize gelen ziyaretçilerin nereden geldiğini, hangi domainlerin içerisinde linklerinizin olduğunu ve dahili link yapınızın görünümünü öğrenebilirsiniz.
+- Search Analytics: Search Analytics, sitenize Google’dan gelen organik trafik konusunda bilgi aktarır. Bu bölümde popüler olan sorguları, sayfaları, ülkeleri ve cihazları görebilir, kafanız net bir şekil oturtabilirsiniz.
+- Dahili Bağlantılar: Dahili ve harici bağlantılar, sayfa sıralamasında üst sıralarda yer almanıza yardımcı olur. İç bağlantılar raporu seçeneği ile en fazla dahili bağlantı alan sayfaları öğrenebilir ve bu sayfalarda değişiklik yapılması gerekiyorsa gerekli değişiklikleri yapabilirsiniz
+- Manuel İşlemler: Bu sayfada yemiş olduğunuz Google cezasını görebilirsiniz.
+- Uluslararası Hedefleme: Web siteleri hazırladıkları içeriklerle uluslararası ziyaretçi çekmeye de çalışır. Aynı zamanda her sayfanın dilini ve coğrafi hedeflemesini ayarlayabilmek için hreflang kullanılır. Hreflang etiketi yanlış uygulandığı taktirde sorunlar yaşanabilir. Bu yüzden ara ara uluslarası hedefleme seçeneğini kontrol etmeniz sizin için faydalı olabilir.
+- Mobil Kullanılabilirlik: 2015 yılından itibaren Google, mobil uyumlu tasarımın sıralama ölçütü olarak kullanılacağını açıkladı. Sizin de tahmin edebileceğiniz gibi ondan sonra da mobil kullanım raporu oldukça popüler bir hal almaya başladı.
+Google Dizini
+Google dizini bölümünde web sitenizin kaç sayfasının Google dizinine eklendiğini öğrenebilirsiniz.
+- Dizin Durumu: Dizin durumu alanı, kaç sayfanın dizine eklendiğini gösterir. Bu URL’ler Googlebot’unun erişebildiği URL’lerdir.
+- Engellenen Kaynaklar: Bu alanda ‘robots.txt’ tarafından engellenen sayfaları görebilirsiniz.
+- URL Kaldır: Bu alanda Google’un dizinine eklenmesini önlemek için kullanılır.
+Tarama
+Sayfalar, dizine eklenmeden önce taranması gerekmektedir. Bu konuyla alakalı olan bütün her şey bu bölümdedir.
+- Tarama Hataları: Googlebot’unun tarama yaparken karşılaştığı hataları göstermektedir. Mutlaka düzenli olarak kontrol edilmelidir.
+- Tarama İstatistikleri: Bu alan 90 gün içerisinde kaç sayfa tarandığını, indirme süresini ve indirme boyutunu gösterir.
+- Google Gibi Getir: Google’ın belirli bir sayfayı işlediğini taklit eder. Google alma ve işleme yöntemi özelliği ile sayfayı tarar ve sayfayı tarayıcıların yaptığı gibi inceler.
+- Robots.txt Test Aracı: Bu seçenek, hataları incelemek için kullanılır.
+- Site Haritaları: Site haritası oluştururken XML site haritası oluşturmanız sizin için daha iyi olacaktır. Bu site haritasının yerini Google Search Console aracılığıyla, Google’a bildirebilirsiniz.
+- URL Parametreleri: Google, URL parametrelerini çoğu zaman kendi başına anlayabilse de bazı zamanlarda parametreleri anlayabilmek için yardım isteyebilir. Böyle bir durumla karşılaştığınızda bir parametre ekleyin ve ardından tarafından görülen sayfa içeriğinin değişip değişmediğini kontrol edin.
+- Güvenlik Sorunları: “Bu site bilgisayarınıza zarar verebilir” mesajıyla karşılaşıyorsanız siteniz yüksek ihtimalle saldırıya uğramıştır. Daha detaylı bilgi alabilmek için Google Search Console’a gidin ve “Güvenlik Sorunları” sayfasını ziyaret edin.
+Search Console Güncellemeleri 2020
+2 Nisan: Google Search Console’da COVID-19 duyurularının nasıl gönderileceği hakkında yeni kılavuz ile teknik destek grubuna nasıl kayıt olunacağı hakkında bilgiler eklendi.
+5 Mayıs: Yapılandırılmış verileri, işaretleme sorunlarını gidermek ve zengin sonuç performansını analiz etmek için Search Console’un nasıl kullanılacağı konusundaki bilgiler güncellendi.
+7 Mayıs: URL gönderme kılavuzuna video eklendi. Bu videoda, ihtiyacınız olup olmadığından bağımsız olarak site haritasının ne olduğu, site haritasının nasıl gönderileceği ve Search Console’u kullanarak durumunun nasıl takip edileceği konularına açıklık getirildi.
+15 Haziran: Yapılandırılmış veri referansı sayfalarına hem zengin sonuçları izleme videosu hem de zengin sonuçları izlemek için Search Console’u kullanma hakkında daha ayrıntılı bilgi eklendi
+Search Console ile Google Analytics’i Birbirine Bağlamak
+Aslında Search Console ve Google Analytics uzaktan bakıldığı zaman aynı hizmeti veriyormuş gibi görünüyor olabilir. Fakat bu iki Google servisi arasında çok ciddi farklar bulunuyor. Google Analytics, e-ticaret sitenizi kaç kişinin ziyaret ettiğini, ziyaret eden kişinin sitenizde ne kadar kaldığını, ziyaretçilerin sitenize nereden geldiğini gösteren detaylı istatistikleri size sunar. Search Console ise daha çok bir özet niteliği taşır. Size link verenler, site cezaları ve arama terimleri gibi basit ama mutlaka elinizde bulunması gereken verileri size sunar. İki Google servisi birbirine benziyor olsa da ikisi de farklı farklı hizmetler sunmaktadır. Ayrıca elde edeceğiniz verileri daha detaylı bir hale getirmek için Search Console üzerindeki internet sitenizi Google Analytics mülkü ile bağlamanız gerekmektedir.
+Search Console ile Google Analytics’i birbirine bağlamak için yapmanız gerekenler şu şekilde;
+- Doğrulanmış olan mülke Google Search Console üzerinden giriş yapın.
+- Sağ üst kısımda bulunan dişli simgesine tıklayın ve “Google Analytics Mülkü” seçeneğine tıklayın.
+- Açılan pencere üzerinden bu siteye bağlı Google Analytics tercihi yapın ve “kaydet” sekmesine tıklayın.
+Yazar Profili
+-
+- ProjeSoft Kurucu Ortağı - Bilgisayar Mühendisi
+- Arama Motoru Optimizasyonu2020.08.13Google Search Console Nedir? Nasıl Kullanılır?
+- E-ticaret2020.07.27Hazır E-Ticaret Altyapı Sistemlerinin Avantajları
+- E-ticaret2020.07.26Instagram’da Satış Yapmak İçin Bilmeniz Gereken 9 Şey!
+- E-ticaret2020.07.25Kendi İşini Kurmak İsteyenler İçin Şirket Kurma Rehberi!

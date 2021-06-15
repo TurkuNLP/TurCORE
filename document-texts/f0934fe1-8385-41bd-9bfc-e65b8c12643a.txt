@@ -1,0 +1,7 @@
+KDE: Geçen yıl %81 olan KDE çeviri oranı büyük bir artış göstererek %94 seviyesine çıktı. Daha önce neredeyse hiç çevirisi olmayan yardım içeriğinin de %8'i Türkçeye çevrildi. Çok yakında daha yükseğe çıkacağını tahmin ediyorum. KDE'nin en çok yerelleştirildiği 12. dil Türkçe.
+GNOME: Geçen yıl %90 olan çeviri oranı %99'a yükseldi. Yardım içeriği neredeyse hiç çevrilmeden duruyor.
+Enlightenment: Geçen yıl %74 olan çeviri oranı %73'e geriledi.
+XFCE: Xfce web sayfası da dahil olmak üzere %100 çeviri oranına sahip.
+LXDE: Lxde projesinde yer alan bütün yazılımlar %100 Türkçe çevirisine sahip.
+LibreOffice: Özgür ofis paketi LibreOffice'de çeviri durumu çok iyi. Bütün sürümlerin arayüzleri %100 Türkçe'ye çevrilmiş durumda. Yardım içerikleri de %99 civarında yerelleştirildi.
+Çevirmenlerin ve onlara destek olanların eline sağlık!

@@ -1,0 +1,7 @@
+Home Cockpit için “Haydi Başlayalım” demiştim ama başlayamıyoruz maalesef. Araya tatil planı ve görevler girdi. Bu bir müddet uzayacak.
+Başka çok güzel planlarım var ama onların bitmesini bekliyorum buraya yazmak için..
+Evdeki bilgisayarıma yeni bir harddisk alıp, sistemi yeniden kurmam, bilgisayarı temizlemem ve daha kullanılabilir hale getirmemle beraber, bulduğum boş zamanlarda ev kokpiti için araştırma yapmaya başladım.
+İnternet üzerinde birkaç kaynak buldum : Bir Baron-58 Ev Kokpitivebir proje sayfası. Arduino ile C diline, Android ile de Java diline bulaşmıştım. Bu projeleri okuyunca kullandıkları dilin C# olduğunu gördüm. Bir merakım da vardı bu dile.. Sanırım bu projeyi de C# ile götürmeye çalışacağım.
+Profesyonel bir yazılımcı olmadığımı belirtmek isterim. Bu yüzden kodlarım hep copy-paste-debug döngüsünde gidiyor. Proje boyunca hatalarım olacaktır elbet, ortaya mükemmel birşey çıkartmaya çalışmıyorum. Benim ilk büyük çaplı donanım temelli projem olacak. Heyecanlıyım..
+Bir sonraki adım için bir Arduino Ethernet Shield gerekli.. Onu temin etmemle beraber işlerin biraz daha yoluna gireceğini söyleyebilirim. İlk hedefim Beacon anahtarı. 🙂
+Bu proje nereye kadar gidecek, hep beraber göreceğiz..

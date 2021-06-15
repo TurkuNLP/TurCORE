@@ -1,0 +1,43 @@
+DENİZALTILARA MİLLİ BİLGİ DAĞITIM SİSTEMİ
+HAVELSAN tarafından tasarlanan ve TCG Selmanreis denizaltısında kullanılacak altıncı Denizaltı Bilgi Dağıtım Sistemi'nin üretimi tamamlandı.
+23 Mayıs 2020 Cumartesi 14:03
+Türk savunma sanayii, koronavirüs tedbirlerini alarak kritik sistemlerin üretimine ara vermeden devam ediyor.
+Deniz Kuvvetleri Komutanlığı için bir dizi projeyi hayata geçiren HAVELSAN, son olarak, Yeni Tip Denizaltı Projesi için özgün olarak tasarladığı Denizaltı Bilgi Dağıtım Sistemi'nin (DBDS) altıncı ürününü, üretim bandından çıkartarak test hattına soktu.
+TCG Selmanreis denizaltısına monte edilmesi planlanıyor
+HAVELSAN'ın Komuta Kontrol ve Savunma Teknolojileri Genel Müdür Yardımcılığınca yönetilen Yeni Tip Denizaltı Programı'nın yürüyen 3 projesinden biri olan DBDS'nin altıncı ürünü bu ay yeni özellikleriyle test hattına girdi.
+Sistemin TCG Selmanreis denizaltısına monte edilmesi planlanıyor. Bütünleşik bir veri kayıt sistemi de içeren DBDS için donanım ve yazılım güncellemeleri, alınan tedbirler sonucunda zamanında tamamlanarak sistem hazır hale getirildi.
+Yenilikler kolaylıkla sisteme eklenebiliyor
+Daha önce yabancı firmalardan temin edilen DBDS'ler, HAVELSAN mühendisleri tarafından ihtiyaçlar doğrultusunda geliştirilirken, yenilikler de kolaylıkla sisteme eklenebiliyor.
+Milli imkanlarla geliştirilen ve denizaltıların kalbi olarak da gösterilen, veri akışını yedekli ve kesintisiz sağlayan bu sistemler sayesinde Reis sınıfı denizaltılar daha emniyetli seyir yapacak ve harekat görevlerini en etkin ve kesintisiz şekilde icra etmesi mümkün olacak.
+Yabancı programların dikkatini çekti
+HAVELSAN markası olarak Türk Patent Enstitüsüne tescil ettirilen sistem, gelişmiş özellikleriyle yabancı denizaltı inşa ve modernizasyon programlarının dikkatini çekti.
+Pakistan Deniz Kuvvetleri envanterinde mevcut Agosta sınıfı denizaltıların modernizasyonunda da DBDS ürününün kullanılmasına karar verildi. Söz konusu projede ilk sistem kurulumu yapıldı ve liman kabul testi başarıyla geçildi. İkinci sistemin fabrika kabul testleri ise başarıyla tamamlandı.
+Ayrıca Preveze sınıfı denizaltıların modernizasyonunda da etkin performansıyla DBDS ürününün kullanılmasına karar verilerek, 4 denizaltı için DBDS üretimine HAVELSAN tarafından geçen yıl başlandı. İlk sistemin fabrika kabul testlerinin alınan tedbirlerle bu yıl yapılması planlanıyor.
+Uzun ve kapsamlı dayanıklılık testlerine tabi tutuldu
+Tasarımdan tümleştirmeye kadar tamamen yerli olarak üretilen DBDS, bu bakımdan savunma sanayiinde yerlileştirme çalışmalarında adından söz ettiriyor.
+DBDS sözleşmesi kapsamında yüzde 70 olarak öngörülen yerli katkı payı, yüzde 75 seviyesine ulaştı. Sistemin donanım tasarımı ve yazılımının tamamı HAVELSAN'ın iş gücüyle üretildi. Yerli katkı payında gelinen seviye, Cumhurbaşkanlığı Savunma Sanayii Başkanlığının yerli ve milli üretim hedefleriyle uyumlu bir başarıya imza attı.
+Denizaltı gemisindeki zorlu çevre koşullarında kullanılacağı için, uzun ve kapsamlı dayanıklılık testlerine tabi tutulan DBDS, tüm bu testlerden başarıyla geçti.
+TRT
+GALERİLER
+- Türkiye'nin salgınla mücadelesinde son 24 saatTürkiye'de son 24 saatte 156 bin 792 koronavirüs testi yapıldı, 7 bin 550 kişinin testi pozitif çıktı, 168 kişi hayatını kaybetti.16 Ocak 2021 Cumartesi 23:43TÜRKİYE
+- Bulaşıcı Hastalıklar Üst Kurulu kararları açıklandı - 31 Ocak’a kadar kapanma!Bulaşıcı Hastalıklar Üst Komitesi, Bakanlar Kurulu’nun kararlarının ardından yeni kararları açıkladı.16 Ocak 2021 Cumartesi 19:42KIBRIS
+- 16 Ocak koronavirüs tablosu açıklandı… Bugünkü vaka sayısı…Sağlık Bakanlığı, 16 Ocak 2021 koronavirüs tablosunu paylaştı. Türkiye'de son 24 saatte 7 bin 550 kişiye koronavirüs tanısı konuldu. Bugünkü koronavirüs tablosu… 16 Ocak koronavirüs vaka sayısı...16 Ocak 2021 Cumartesi 18:58YAŞAM VE SAĞLIK
+- Bakanlar Kurulu kararlar aldıBakanlar Kurulu’nda, kısmı sokağa çıkma yasağı, okulların ara tatilinin uzatılması ve hayat pahalılığı artışının üç ay için ötelenerek reel sektörün desteklenmesi yönünde kararlar üretildi.16 Ocak 2021 Cumartesi 15:46KIBRIS
+- Linkedin Türkiye'ye temsilci atayacakTürkiye'de temsilcilik açma kararı alan dijital medya platformlarına Linkedin de katıldı. Milyonlarca kişinin kullandığı Linkedin, Türkiye'de temsilcilik açacak.16 Ocak 2021 Cumartesi 14:08BİLİM-TEKNOLOJİ
+- Aşılanan sağlık çalışanlarının moral ve motivasyonu arttıKoronavirüs salgınına karşı ön saflarda mücadele veren sağlık çalışanları, Türkiye'de uygulanmaya başlanan aşı sayesinde moral buldu. Aşı olan sağlık çalışanlarının birçoğu herhangi bir yan etkiyle karşılaşmadıklarını da vurguladı.16 Ocak 2021 Cumartesi 12:23YAŞAM VE SAĞLIK
+- İlk milli silahlı drone 'Songar' ile zırhlı araç artık sahada daha güçlüTürk Silahlı Kuvvetleri envanterine giren "ilk milli silahlı drone" Songar, ilk kez bir zırhlı kara aracıyla kullanıldı. Songar sayesinde 4x4 askeri kara aracı, havadan hedef bulma ve uzaktan silahlı operasyon yapabilme kabiliyetine sahip olacak16 Ocak 2021 Cumartesi 11:13BİLİM-TEKNOLOJİ
+- Sivrisinek anteninden kanser dedektörü geliştirildiJapon araştırmacılar, sivrisineğin koklama duyusuyla kanser dedektörü geliştirdi. Düşük maliyetle üretilmesi planlanan dedektörün 10 yıl içerisinde pratik kullanıma sunulması hedefleniyor.16 Ocak 2021 Cumartesi 09:58BİLİM-TEKNOLOJİ
+- Tatar: Kıbrıs Türk halkının çıkarlarını korumada önemli bir aşamaya geldikKKTC Cumhurbaşkanı Ersin Tatar, iki devletli çözüm konusuna ilişkin, "Doğru yoldayız, Kıbrıs Türk halkının hak ve çıkarlarını korumada önemli bir aşamaya gelindiğini görüyoruz" dedi.15 Ocak 2021 Cuma 20:08DÜNYA
+- 65 yaş ve üzeri vatandaşlar koronavirüs aşıları için başvuru yapacakSağlık Bakanlığı tarafından yapılan açıklamada, 65 yaş ve üzeri vatandaşların başvuru yapması gerektiğini ifade etti.15 Ocak 2021 Cuma 19:03KIBRIS
+VİDEOLAR
+- Temsilcilik açmayan sosyal ağlara reklam yasağı yoldaTürkiye'de temsilci atayacağını açıklayan sosyal medya ağı sayısı 6'ya yükseldi. Temsilci atamayan sosyal medya ağlarına reklam yasağı verilecek. Bir sonraki adımda ise ilgili ağların bant genişlikleri daraltılabilecek.17 Ocak 2021 Pazar 07:18TÜRKİYE
+- Türkiye aşılamada ilk 10'a girdiTürkiye birkaç günlük koronavirüs aşılamasıyla, haftalardır aşı uygulayan çok sayıda ülkeyi geride bıraktı. En çok aşılama yapan ilk 10 ülke arasına girdi.17 Ocak 2021 Pazar 06:43TÜRKİYE
+- Merapi Yanardağı lav püskürtmeye devam ediyorEndonezya'daki Merapi Yanardağı'nda volkanik hareketlilik sürüyor. Yanardağdan son 6 saatte 36 kez lav püskürdü.17 Ocak 2021 Pazar 06:13DÜNYA
+- Bundesliga'da ırkçılık iddiasına incelemeAlmanya Futbol Federasyonu, Union Berlin-Bayer Leverkusen maçında, konuk ekibin Afganistan kökenli oyuncusu Nadiem Amiri’ye yönelik ırkçı hakaret edildiği iddiasının ardından olaya ilişkin inceleme başlattı.17 Ocak 2021 Pazar 06:08SPOR
+- PSG yeniden liderFransa 1. Futbol Ligi'nin 20. haftasında Paris Saint-Germain, deplasmanda Angers'i 1-0 mağlup ederek maç fazlasıyla yeniden liderlik koltuğuna oturdu.17 Ocak 2021 Pazar 05:53SPOR
+- Endonezya'da 6,2 büyüklüğündeki depremde 56 kişi hayatını kaybettiEndonezya'nın Sulavesi Adası'ndaki depremde hayatını kaybedenlerin sayısı 56'ya yükseldi. 800'den fazla da yaralı var.17 Ocak 2021 Pazar 05:38DÜNYA
+- Avrupa'da salgında ölenlerin sayısı 623 bini geçtiAvrupa'da salgın etkisini sürdürüyor. Toplam vaka sayısı 27 milyon 340 bine yaklaştı. Can kaybı ise 623 bini aştı.17 Ocak 2021 Pazar 05:28DÜNYA
+- Ankara'da kar yağışı etkisini sürdürüyorAnkara'nın bazı bölgelerinde kar ve sulu kar yağışı etkili oluyor.17 Ocak 2021 Pazar 05:08TÜRKİYE
+- Haliç Köprüsü'nde kaza: 2 ölüHaliç Köprüsü'nde bir oto çekicinin yol bakım aracına çarpması sonucu 2 kişi hayatını kaybetti.17 Ocak 2021 Pazar 04:43TÜRKİYE
+- Güney Afrika'da koronavirüs vaka sayısı 1 milyon 325 bini geçtiAfrika kıtasında koronavirüsün en yoğun görüldüğü ülke olan Güney Afrika Cumhuriyeti'nde vaka sayısı 1 milyon 325 bini aştı.17 Ocak 2021 Pazar 04:03DÜNYA
+Türkçe karakter kullanılmayan ve büyük harflerle yazılmış yorumlar onaylanmamaktadır.

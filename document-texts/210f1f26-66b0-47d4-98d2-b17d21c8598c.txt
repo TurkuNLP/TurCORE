@@ -1,0 +1,3 @@
+Kiraz Çiftliği Oyunu
+Kiraz Çiftliği
+Çiftlik oyunları, sitemizin en sevilen oyunları olarak dikkat çekmeyi başarıyor. Şimdi de bu oyunlara bir yenisini ekliyoruz. Eklediğimiz oyunda, genç bir kızın yanında yer alıp kiraz çiftliğimizle ilgilenerek kirazlar yetiştirmeye ve onları satarak para kazanmaya çalışıyoruz. Bunun için ilk olarak oyuna girişimizi gerçekleştirmemiz gerekiyor. Kiraz Çiftliği oyununa giriş yapabilmek için bir süre yüklenme işleminin tamamlanmasını bekleyip daha sonrasında ana ekrandan play yazılı olan seçeneğe tıklamamız gerekiyor. Yaptığımız bu tıklamayla beraber kendimizi çiftlikte buluyor ve sırasıyla talimatları takip edip kirazlar yetiştirmeye çalışıyoruz. Kontrollerin tamamen fareyle sağlandığı oyunda iyi eğlenceler dileriz.

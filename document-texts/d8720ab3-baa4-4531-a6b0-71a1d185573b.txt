@@ -1,0 +1,118 @@
+PUBG Güncelleme ile PlayStation 4 tarafından neler değişti
+PlayerUnknown’s Battlegrounds namı değer PUBG son gelen güncelleme ile PlayStation 4 tarafında bir çok değişiklik olacak. Oyunda nelerin değişeceği uzatmadan anlatalım.
+Güncelleme #4 ana sunuculara geliyor!
+Bu güncelleme yeni silah MP5K, Survivor Pass 3: Wild Card, Survival Unvan Sistemi Sezon 2, Erangel eşya dengelemesi, yüklenme optimizasyonu, hata düzeltmeleri ve çok daha fazlasını içeriyor.
+Bakım Takvimi: 28 Mayıs 08:00 – 12:00
+Güncelleme #4 ile beraber PS4’e iniş yapan tüm özellikleri inceleyin:
+Yeni Silah: MP5K
+MPK5, 9 mm mühimmata uygun, yepyeni bir hafif makineli tüfek. Vikendi’ye özel olan MP5K, bu haritada Vektor’un yerini alacak.
+MP5K’nın ateşleme mekaniği Vector’unkine benzese de, kurşun başına verdiği hasar daha yüksek ancak genel ateşleme hızı düşük ve saniye başına verdiği hasar (DPS) daha azdır. Ayrıca bu HMS, Vektor’unkinden daha yüksek bir şarjör kapasitesine sahiptir; varsayılan olarak 30 mermi ile başlar ve mermi sayısı uzatılmış şarjörle 40’a çıkabilir.
+MP5K Ana Özellikleri:
+- Dakikada 900 mermi atabilen ve geri tepmesi rahatlıkla kontrol edilebilen yüksek bir ateşleme hızı
+- Taktiksel bir dipçiğin, farklı türden şarjörlerin, namlu eklentilerinin, kabzaların, lazer nişangahının ve elbette dürbünlerin kullanımına olanak sağlayan tüm eklenti bölmelerini barındırır
+- Temel hasar değeri 33’tür
+- Vikendi’ye Özel
+Survivor Pass 3: Wild Card
+- Tarzınla Öldür – Survivor Pass 3: Wild Card Konsollara çıkıyor!
+- Yeni ödüller, görevler ve çok daha fazlası için Survivor Pass 3: Wild Card
+Survival Unvan Sistemi, Sezon 2
+- Survival Unvan Sistemi, bazı değişiklikler ile Sezon 2’yi sizlere tanıtıyor
+Oynanış
+Silah Dengesi
+- M16A4;
+- Çoklu atış modu etkinken, başlangıçta meydana gelen geri tepme azaltıldı
+- Hasar verme menzili artırıldı.
+- Bu değişiklik, uzun mesafe çatışmalarında M16A4’ün verimliliğinin artmasına yardımcı olacak.
+- M16A4’e artık Yardımcı Görüş ve Taktiksel Dipçik takılabilir.
+- Taktiksel Dipçik, geri tepme sıfırlanma süresini, animasyon tepmesini ve silah salınımını azaltırken Yakın Bakış hızını ve nişan almadan atış hassasiyetini iyileştirecek.
+- Vector;
+- Vector’un mermi haznesi, 9 mm’lik cephane kullanılabilecek şekilde değiştirildi.
+- Şarjör kapasitesi, varsayılan 19 mermi olacak şekilde, uzatılmış şarjör ile 33 mermiye kadar artırıldı (daha önce 13/25 idi)
+- Hasar, yukarıdaki değişikliklere bağlı olarak 34’ten 31’e indirildi.
+- Namlu hızı, 380 m/s olarak değiştirildi (daha önce 300 m/s idi)
+- UMP45;
+- Artık adı UMP45 olan UMP9’un mermi haznesi, 45ACP cephane kullanılabilecek şekilde değiştirildi.
+- Şarjör kapasitesi, varsayılan 25 mermi olacak şekilde, uzatılmış şarjör ile 35 mermi olarak düzenlendi (daha önce 30/40 idi)
+- Silah sesleri, daha gerçekçi olmak üzere değiştirildi.
+- Namlu hızı, 300 m/s olarak değiştirildi (daha önce 400 m/s idi)
+- MK47 Mutant;
+- MK47 Mutant’a artık Taktiksel Dipçik takılabilir.
+- Taktiksel Dipçik, geri tepme sıfırlanma süresini, animasyon tepmesini ve silah salınımını azaltırken Yakın Bakış hızını ve nişan almadan atış hassasiyetini iyileştirecek.
+- Eklentiler Dengesinde Yapılan Düzenleme;
+- HMS ve Tabanca eklentileri birleştirildi ve artık her iki silah türünde de kullanılabilir.
+- Pompalılar, Win94 ve Kar98k Mermi Döngüleri, Cephane Döngüleri adı verilen bir eşyada birleştirildi.
+- Tabancalara artık Hologram Nişangahlar takılabilir.
+- Nişangahlar Tabancalara takıldığında, nişangahın boyutu küçültülerek tabancanın boyutuna uygun hale getirilecek.
+- Vuruş Alanı Hasar Çarpanında Yapılan Değişiklikler;
+- KNT’nin gövde vuruş hasarı %110’dan %150’ye yükseltildi.
+- HMS’nin uzuv vuruş temel hasarı %120’dan %125’ye yükseltildi.
+- Oynanış Dengesi;
+- Düşman tarafından vurulurken nişan hattının hedeften sapması genel olarak azaltıldı.
+- İlk yardım çantaları artık, kullanıldıktan sonra anında iyileştirme sunmuyor, bunun yerine 2 saniyelik iyileştirme sağlıyor.
+- Araçlar artık oyuncuların, diğer nesneler için kullanılan mekanizmaya benzer şekilde el bombasından hasar almalarını engelliyor. Araçların arkasına saklanan oyuncular, el bombasının konumuna ve güzergahına bağlı olarak yine de hasar alabilir.
+Eşyaların Belirme Dengesinde Yapılan Düzenleme
+Erangel Ganimet Değişiklikleri
+Erangel’de eşyaların genel belirme oranları artırıldı. Ayrıca, bazı büyük silah sınıflarının belirme oranlarını da artırdık.
+- TT’lerin, SNT’lerin ve HMS’lerin belirme oranı sırasıyla %12, %16 ve %14 olacak şekilde artırıldı.
+- KNT’lerin ve Tabancaların belirme oranında ufak bir artış gerçekleştirildi.
+Bu güncellemede yapılan ve bazı eklentileri birleştirmeyi de içeren eşya değişiklikleri sebebiyle, belirmelerde başka eşyalarla doldurulması gereken bir boşluk meydana geldi. Bu nedenle, diğer eşyaların belirme oranını da eşit olarak artırdık. Bu durum, TT, ekipmanlar, iyileştirme eşyaları gibi yüksek öneme sahip eşyaların belirmesinde ufak bir artışı da beraberinde getirdi.
+Bu durum diğer haritalardaki tekil eşya belirme oranlarında herhangi bir değişiklik yapılmamasına rağmen, bu haritalardaki genel ganimet miktarında ufak bir artış gerçekleştiği anlamına gelir.
+- Yardımcı Görüş ve Dürbünler de Yapılan Nişan Göstergesi İyileştirmesi.
+- Yardımcı Görüş kullanılırken oyuncuların, mevcut durumda takılı olan dürbünün hangisi olduğunu kolayca anlamalarına yardımcı olması için yeni bir nişan göstergesi eklendi.
+- Ana dürbünü kullanırken standart nişan göstergesini, Yardımcı Görüşü kullanırken ise X şeklinde bir nişan göstergesi göreceksin.
+Hareket Ederken Çıkan Hışırtı Sesleri;
+- Silahlar;
+- Silahı sırtında taşırken ve elinde tutarken çıkan hışırtı sesleri artık birbirinden farklı olacak.
+- Çıkan hışırtı sesleri, silah türünden bağımsız olarak aynı olacak.
+- Tabancalar, yakın dövüş silahları ve fırlatılabilir hiçbir silahtan hışırtı sesi çıkmayacak.
+- Ses seviyesi dengesi;
+- Sırt çantalarından ve silahlardan çıkan hışırtı seslerinin tümü, düzeyi ve duyulduğu mesafe bakımından aynıdır.
+- Giysilerden çıkan seslerin duyulma menzili çantalar/silahlar vb. ile aynı olsa da, ses düzeyinin daha düşük olması nedeniyle kulağa farklı bir menzilde duyuluyormuş gibi gelebilir.
+- Hışırtı sesinin düzeyi ve duyulduğu mesafe, dinamik anlamda karakterin hareket hızına bağlı olarak değişir.
+- Ne kadar hızlı hareket edersen, çıkan ses o kadar yüksek olur ve daha uzak mesafelerden duyulabilir.
+- Hışırtı sesinin duyulma menzili ve düzeyi, ayak seslerinden daha düşüktür.
+Arayüz / Kullanıcı Deneyimi;
+- Oyun içi lobisinin arka planı ve arka plan müziği değiştirildi.
+- Start tuşuna basarak başlatılan Sistem Menüsü arayüzü tekrar tasarlandı.
+- Emote özelleştirmesi arayüzü tekrar tasarlandı.
+- Emote’larını, KİŞİSELLEŞTİR menüsünde bulunan EMOTE’LAR sekmesinde kişiselleştire bilirsin.
+- Oyun içi kullanabileceğin emote’ların maksimum sayısı 8’den 12’ye yükseltildi.
+- Saat 12 konumundan başlayarak, daha önce kullandığın ve saat yönünün tersinde yerleştirilmiş emote’ların 4’ü çıkarılacak.
+Performans;
+- Binaların yüklenme süresi, yapılan optimizasyon ile %30-%40 arasında azaldı.
+- Material datası yapısı optimize edildi.
+- Oyuncunun hareket yönüne göre, Stream önceliği optimize edildi.
+- Binaların içindeki objelerin yüklenme süreleri optimize edildi.
+- Haritadaki detaylar optimize edildi.
+Hata Düzeltmeleri;
+- Sanhok’ta çelik yüzeye basıldığında çıkan seslerinin yanlış bir malzemenin meydana getirdiği sesler olmasına neden olan hata düzeltildi.
+- Sanhok’ta karakterlerin belirli nesnelerin üzerinden atlarken tavanda sıkışıp kalmasına neden olan hata düzeltildi.
+- Sanhok’taki Camp Bravo’da bulunan tellerin üzerindeki sarmaşıkların mermileri engellemesine neden olan hata düzeltildi.
+- Oyuncuların, emote’un işleyişini kötüye kullanarak duvarların arkasını görmelerini sağlamasına neden olan hata düzeltildi.
+- Oyuncuların, kapıların önünde açılıp kapanmasını engelleyen bir araç olmasına rağmen bu kapıları açıp kapayabilmesine neden olan hata düzeltildi.
+- Oyuncuların, ince bir duvara dayandığında bu duvarın arkasını az da olsa görebilmesine neden olan hata düzeltildi.
+- Bir oyuncunun, iki Molotof Kokteyli ile hasar almasına neden olan hata düzeltildi; hedef oyuncuyu öldüren, Molotof Kokteylini ilk atan oyuncu olacak.
+- El bombası patladıktan sonra çıkan dumanın, bu dumanın içinde kalan oyuncuların fiziksel hatlarını çevrelenmesine neden olan hata düzeltildi.
+- Oyucuların, arbaletle ayakta dururken eğilememelerine neden olan hata düzeltildi.
+- Zayıf internet bağlantısı olan oyuncuların, hareket halindeki araçlardan çıktığında hasar almamasına neden olan hata düzeltildi.
+- Bizonda atış modunu değiştirirken karakterlerin ellerinin olağan dışı şekilde hareket etmesine neden olan hata düzeltildi.
+- QBZ’ye belirli eklentiler takarken Envanter kullanıcı arayüzünün yanlış bir şekilde görüntülenmesine neden olan hata düzeltildi.
+- Belirli bir nesnenin, Yardım Paketlerinin yere inişini engellemesine neden olan hata düzeltildi.
+- Oyun istemcisi kapanmaya zorlandıktan veya çöktükten sonra oyuncuların diriltilmesine neden olan hata düzeltildi.
+- Belirli bir nesnenin, başka oyuncular için farklı yerlerde belirmesine neden olan hata düzeltildi.
+- Sesi tamamen kısmak veya ses kanalını değiştirmek için kısayol tuşları kullanıldığında FPS’de anlık büyük düşüşlere neden olan hata düzeltildi.
+- Otomatik mini harita yakınlaştırma özelliğinin, uçağın içindeyken veya paraşütle atlarken etkinleştirilmesine neden olan hata düzeltildi.
+- İzleme modu etkinken, L1 (PS4) veya R1 (PS4) düğmeleri kullanıldığında izlemenin sadece iki oyuncu arasında geçiş yapmasına neden olan hata düzeltildi.
+- Yardımcı görüşün, takılı diğer dürbünlerin yakın görüş hızını artırmasına neden olan hata düzeltildi.
+- Beryl’e belirli bir şarjör takıldığında yanlış şarjör modelinin görüntülenmesine neden olan hata düzeltildi.
+- Birincil görüşten yardımcı görüşe geçildiğinde nişangah parlaklığının sıfırlanmasına neden olan hata düzeltildi.
+- Bir binanın içine doğru atlarken kameranın bir anlığına aşağı ve yukarı hareket etmesine neden olan hata düzeltildi.
+- Bir karakterin modelinin, yere yatar pozisyona geçerken sarsılmasına neden olan hata düzeltildi.
+- Oyuncuların, motosikletle içinden geçtiği pencerelerdeki camların kırılmamasına neden olan hata düzeltildi.
+- Kar98k şarjörünü değiştirirken atış tuşuna birden fazla basıldığında şarjör değiştirme animasyonunun iki kez oynatılmasına neden olan hata düzeltildi.
+- Bir karakter iniş noktasındayken yardım paketinin içinden geçmesine neden olan hata düzeltildi.
+- Eşyaların zeminde sıkışmasına ve belirli yerlerde alınmamasına neden olan hata düzeltildi.
+Bilinen Hatalar;
+- Takım arkadaşlarınızın simgeleri ve can barları bazı durumlarda görünmüyor.
+- Eğer bu hatayla karşı karşıya kalıyorsanız, lütfen hata raporunu ve nasıl yaşandığını raporlayın.
+Henüz yorum yapılmamış.

@@ -1,0 +1,18 @@
+Güney Kore merkezli teknoloji devi LG yeni akıllı telefonu LG V20’yi Türkiye’ye getirdi. İşte LG V20’nin tüm teknik özellikleri ve fiyatı…
+LG V20, sahip olduğu sabit kayıt 2.0, Hi-Fi Quad DAC, HD ses kayıt ve ön ve arka geniş açılı kamera özellikleri ile sınıfındaki telefonlars kıyasla iyi performans sağlıyor. V20, Android 7.0 Nougat OS ve Google’ın telefonlar için geliştirdiği yeni arama uygulaması In Apps’i içeren ilk telefon olma özelliğini taşıyor. Cihazın özellikleri arasında Qualcomm Snapdragon 820 işlemci, 2560 x 1440 çözünürlüklü 5,7 inç QHD IPS ekran, 4 GB RAM, 64 GB hafıza (microSD kart ile 2 TB’a kadar yükseltme olanağı), 5MP ön, iki adet 16 ve 8 MP arka kamera, 3200 mAh batarya yer alıyor.
+Etkinlikte açılış konuşmasını gerçekleştiren LG Electronics Türkiye Genel Müdürü Calvin Cho şunları söyledi: “LG V20 ile kullanıcılarımıza tamamen kendi zevklerine göre tasarlayabilecekleri bir dünyanın anahtarını veriyoruz. Premium akıllı telefonlarda yeni bir standart oluşturmak için LG V20’de kullanıcıların bir telefonda sevdikleri her özelliğin çok daha fazlasını sunarken, ihtiyaç duymadıklarını ise en aza indirdik. Günümüzde herkes kendi hikayesini anlatmak için oldukça yaratıcı yollar buluyor. Sosyal medyadan diğer insanlarla paylaştıkları bu eşsiz ve yaratıcı hikayelerle kendi hayatlarının kahramanı oluyorlar. LG V20’yi tasarlarken kendi hikayesini anlatan kullanıcılarımızı her zaman aklımızın bir köşesinde tuttuk. LG V20 görselliği ustaca kullanan bu kuşağın ihtiyaçlarını en iyi şekilde karşılayan bir cihaz.” dedi.
+Etkinlikte ürün sunumunu gerçekleştiren LG Electronics Türkiye Mobil İletişim Satış Müdürü Mehmet Ali Yıldırım ise V20 ile ilgili şunları söyledi: “LG V20 ile multimedya özellikleri alanında kullanıcılarımıza eşsiz bir özgürlük sağlıyoruz. LG V20 çift arka kamerası ve eşsiz video düzenleme özellikleriyle video alanında akıllı telefon pazarının standartlarını bir üst seviyeye taşıyor. LG V20, ayrıca Google’ın In Apps özelliğine sahip dünyanın ilk akıllı telefonu olma ünvanına da sahip.”
+LG V20, önümüzdeki hafta itibariyle 2999 TL fiyatla satışa sunulacak.
+LG V20 TEKNİK ÖZELLİKLER
+Yonga seti: Qualcomm Snapdragon 820 Processor
+Ekran: Main 5.7-inch QHD IPS Quantum Display (2560 x 1440 / 513ppi) / Secondary IPS Quantum Display (160 x 1040 / 513ppi)
+Hafıza: 4GB LPDDR4 RAM / 64GB UFS ROM / microSD (2TB’a kadar)
+Kamera: F1.9 diyafram aralığı ile 5MP ön kamera (Geniş Açı) / F1.8 diyafram aralığı ile 16MP arka kamera OIS (Standart Açı) ve F2.4 diyafram aralığı ile 8MP arka kamera (Geniş Açı)
+Batarya: 3200mAh (Çıkarılabilir)
+İşletim sistemi: Android 7.0 Nougat
+Boyut: 159.7 x 78.1 x 7.6mm
+İletişim Ağı: LTE-A 3 Band CA
+Bağlanabilirlik: LTE (up to 450 Mbps LTE Category 9 with 3x Carrier Aggregation) / Wi-Fi (802.11 a, b, g, n, ac) / USB Type-C / Bluetooth 4.2 BLE / NFC /
+Renk: Titan
+Diğer: Hi-Fi Video Kayıt / Sabit Kayıt 2.0 / HD Ses Kaydedici / Stüdyo Modu Yüksek AOP Mikrofon / İkinci Ekra / 32-bit Hi-Fi Quad DAC / In Apps / B&O İşbirliği / Parmak İzi Okuyucu / Qualcomm Quick Charge™ 3.0
+V20 Türkiye yazılımı Operatorlerin sunduğu gelişmiş LTE servislerini desteklemektedir (VoLTE, ViLTE, VoWiFi, MP-TCP)
